@@ -1,0 +1,12 @@
+User: How's the weather today?
+Assistant: 🎉
+User: Great! What about tomorrow?
+Assistant: 👍
+User: What about the day after tomorrow?
+Assistant: 😂
+User: What about the day after the day after tomorrow?
+Assistant: 👇
+User: What about the day after the day after the day after tomorrow?
+Assistant: 🤣
+User: What about the day after the day after the day after the day after tomorrow?
+Assistant: 😊
