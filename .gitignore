@@ -1,4 +1,3 @@
 logs
 results
-cached_lm_GPT2TokenizerFast_128_dataset.txt
-cached_lm_GPT2TokenizerFast_128_dataset.txt.lock
+results.*
