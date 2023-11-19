@@ -1,0 +1,3214 @@
+[
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F645 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F645 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents forbidden?",
+    "output": "U+1F645 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents gesture?",
+    "output": "U+1F645 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F645 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents prohibited?",
+    "output": "U+1F645 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents no?",
+    "output": "U+1F645 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F482 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F482 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents guard?",
+    "output": "U+1F482 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents racing?",
+    "output": "U+1F3C3 U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents running?",
+    "output": "U+1F3C3 U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F3C3 U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents marathon?",
+    "output": "U+1F3C3 U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents gymnastics?",
+    "output": "U+1F938 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F938 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F938 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents cartwheel?",
+    "output": "U+1F938 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F3CC U+FE0F U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents golf?",
+    "output": "U+1F3CC U+FE0F U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents keycap?",
+    "output": "U+0030 U+FE0F U+20E3"
+  },
+  {
+    "input": "What emoji represents racing?",
+    "output": "U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents running?",
+    "output": "U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents marathon?",
+    "output": "U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents farmer?",
+    "output": "U+1F468 U+1F3FE U+200D U+1F33E"
+  },
+  {
+    "input": "What emoji represents gardener?",
+    "output": "U+1F468 U+1F3FE U+200D U+1F33E"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F468 U+1F3FE U+200D U+1F33E"
+  },
+  {
+    "input": "What emoji represents rancher?",
+    "output": "U+1F468 U+1F3FE U+200D U+1F33E"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FE U+200D U+1F33E"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F44F U+1F3FF"
+  },
+  {
+    "input": "What emoji represents clap?",
+    "output": "U+1F44F U+1F3FF"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F44F U+1F3FF"
+  },
+  {
+    "input": "What emoji represents clap?",
+    "output": "U+1F44F U+1F3FE"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F44F U+1F3FE"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F44F U+1F3FE"
+  },
+  {
+    "input": "What emoji represents clap?",
+    "output": "U+1F44F U+1F3FD"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F44F U+1F3FD"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F44F U+1F3FD"
+  },
+  {
+    "input": "What emoji represents clap?",
+    "output": "U+1F44F U+1F3FC"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F44F U+1F3FC"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F44F U+1F3FC"
+  },
+  {
+    "input": "What emoji represents clap?",
+    "output": "U+1F44F U+1F3FB"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+1F44F U+1F3FB"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F44F U+1F3FB"
+  },
+  {
+    "input": "What emoji represents walk?",
+    "output": "U+1F6B6 U+1F3FB U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+1F6B6 U+1F3FB U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F6B6 U+1F3FB U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents hike?",
+    "output": "U+1F6B6 U+1F3FB U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents firetruck?",
+    "output": "U+1F468 U+1F3FC U+200D U+1F692"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F468 U+1F3FC U+200D U+1F692"
+  },
+  {
+    "input": "What emoji represents firefighter?",
+    "output": "U+1F468 U+1F3FC U+200D U+1F692"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FC U+200D U+1F692"
+  },
+  {
+    "input": "What emoji represents squid?",
+    "output": "U+1F991"
+  },
+  {
+    "input": "What emoji represents molusc?",
+    "output": "U+1F991"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F991"
+  },
+  {
+    "input": "What emoji represents small?",
+    "output": "U+1F990"
+  },
+  {
+    "input": "What emoji represents shrimp?",
+    "output": "U+1F990"
+  },
+  {
+    "input": "What emoji represents shellfish?",
+    "output": "U+1F990"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F990"
+  },
+  {
+    "input": "What emoji represents rhinoceros?",
+    "output": "U+1F98F"
+  },
+  {
+    "input": "What emoji represents lizard?",
+    "output": "U+1F98E"
+  },
+  {
+    "input": "What emoji represents reptile?",
+    "output": "U+1F98E"
+  },
+  {
+    "input": "What emoji represents gorilla?",
+    "output": "U+1F98D"
+  },
+  {
+    "input": "What emoji represents deer?",
+    "output": "U+1F98C"
+  },
+  {
+    "input": "What emoji represents pretty?",
+    "output": "U+1F98B"
+  },
+  {
+    "input": "What emoji represents insect?",
+    "output": "U+1F98B"
+  },
+  {
+    "input": "What emoji represents butterfly?",
+    "output": "U+1F98B"
+  },
+  {
+    "input": "What emoji represents fox?",
+    "output": "U+1F98A"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F98A"
+  },
+  {
+    "input": "What emoji represents rocket?",
+    "output": "U+1F468 U+1F3FC U+200D U+1F680"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F468 U+1F3FC U+200D U+1F680"
+  },
+  {
+    "input": "What emoji represents astronaut?",
+    "output": "U+1F468 U+1F3FC U+200D U+1F680"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FC U+200D U+1F680"
+  },
+  {
+    "input": "What emoji represents wise?",
+    "output": "U+1F989"
+  },
+  {
+    "input": "What emoji represents owl?",
+    "output": "U+1F989"
+  },
+  {
+    "input": "What emoji represents bird?",
+    "output": "U+1F989"
+  },
+  {
+    "input": "What emoji represents shark?",
+    "output": "U+1F988"
+  },
+  {
+    "input": "What emoji represents fish?",
+    "output": "U+1F988"
+  },
+  {
+    "input": "What emoji represents bat?",
+    "output": "U+1F987"
+  },
+  {
+    "input": "What emoji represents vampire?",
+    "output": "U+1F987"
+  },
+  {
+    "input": "What emoji represents duck?",
+    "output": "U+1F986"
+  },
+  {
+    "input": "What emoji represents bird?",
+    "output": "U+1F986"
+  },
+  {
+    "input": "What emoji represents eagle?",
+    "output": "U+1F985"
+  },
+  {
+    "input": "What emoji represents bird?",
+    "output": "U+1F985"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F984"
+  },
+  {
+    "input": "What emoji represents unicorn?",
+    "output": "U+1F984"
+  },
+  {
+    "input": "What emoji represents family?",
+    "output": "U+1F469 U+200D U+1F466 U+200D U+1F466"
+  },
+  {
+    "input": "What emoji represents boy?",
+    "output": "U+1F469 U+200D U+1F466 U+200D U+1F466"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+200D U+1F466 U+200D U+1F466"
+  },
+  {
+    "input": "What emoji represents turkey?",
+    "output": "U+1F983"
+  },
+  {
+    "input": "What emoji represents scorpio?",
+    "output": "U+1F982"
+  },
+  {
+    "input": "What emoji represents zodiac?",
+    "output": "U+1F982"
+  },
+  {
+    "input": "What emoji represents scorpius?",
+    "output": "U+1F982"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F487 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F487 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents haircut?",
+    "output": "U+1F487 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents lion?",
+    "output": "U+1F981"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F981"
+  },
+  {
+    "input": "What emoji represents zodiac?",
+    "output": "U+1F981"
+  },
+  {
+    "input": "What emoji represents leo?",
+    "output": "U+1F981"
+  },
+  {
+    "input": "What emoji represents mathematician?",
+    "output": "U+1F468 U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents engineer?",
+    "output": "U+1F468 U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents physicist?",
+    "output": "U+1F468 U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents chemist?",
+    "output": "U+1F468 U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents biologist?",
+    "output": "U+1F468 U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents scientist?",
+    "output": "U+1F468 U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents cancer?",
+    "output": "U+1F980"
+  },
+  {
+    "input": "What emoji represents zodiac?",
+    "output": "U+1F980"
+  },
+  {
+    "input": "What emoji represents justice?",
+    "output": "U+1F468 U+1F3FD U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents scales?",
+    "output": "U+1F468 U+1F3FD U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F468 U+1F3FD U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FD U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents electrician?",
+    "output": "U+1F468 U+200D U+1F527"
+  },
+  {
+    "input": "What emoji represents tradesperson?",
+    "output": "U+1F468 U+200D U+1F527"
+  },
+  {
+    "input": "What emoji represents plumber?",
+    "output": "U+1F468 U+200D U+1F527"
+  },
+  {
+    "input": "What emoji represents mechanic?",
+    "output": "U+1F468 U+200D U+1F527"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+200D U+1F527"
+  },
+  {
+    "input": "What emoji represents family?",
+    "output": "U+1F469 U+200D U+1F467"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+200D U+1F467"
+  },
+  {
+    "input": "What emoji represents girl?",
+    "output": "U+1F469 U+200D U+1F467"
+  },
+  {
+    "input": "What emoji represents family?",
+    "output": "U+1F469 U+200D U+1F466"
+  },
+  {
+    "input": "What emoji represents boy?",
+    "output": "U+1F469 U+200D U+1F466"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+200D U+1F466"
+  },
+  {
+    "input": "What emoji represents mathematician?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents engineer?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents physicist?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents chemist?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents biologist?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents scientist?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F52C"
+  },
+  {
+    "input": "What emoji represents electrician?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F527"
+  },
+  {
+    "input": "What emoji represents tradesperson?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F527"
+  },
+  {
+    "input": "What emoji represents plumber?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F527"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F527"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F527"
+  },
+  {
+    "input": "What emoji represents mechanic?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F527"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F64B U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents gesture?",
+    "output": "U+1F64B U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F64B U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents raising hand?",
+    "output": "U+1F64B U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents pancake?",
+    "output": "U+1F95E"
+  },
+  {
+    "input": "What emoji represents hotcake?",
+    "output": "U+1F95E"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F95E"
+  },
+  {
+    "input": "What emoji represents crêpe?",
+    "output": "U+1F95E"
+  },
+  {
+    "input": "What emoji represents fruit?",
+    "output": "U+1F95D"
+  },
+  {
+    "input": "What emoji represents kiwi?",
+    "output": "U+1F95D"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F95D"
+  },
+  {
+    "input": "What emoji represents vegetable?",
+    "output": "U+1F95C"
+  },
+  {
+    "input": "What emoji represents peanut?",
+    "output": "U+1F95C"
+  },
+  {
+    "input": "What emoji represents nut?",
+    "output": "U+1F95C"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F95C"
+  },
+  {
+    "input": "What emoji represents drink?",
+    "output": "U+1F95B"
+  },
+  {
+    "input": "What emoji represents glass?",
+    "output": "U+1F95B"
+  },
+  {
+    "input": "What emoji represents milk?",
+    "output": "U+1F95B"
+  },
+  {
+    "input": "What emoji represents bicycle?",
+    "output": "U+1F6B5 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents cyclist?",
+    "output": "U+1F6B5 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents bike?",
+    "output": "U+1F6B5 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents mountain?",
+    "output": "U+1F6B5 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F6B5 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents egg?",
+    "output": "U+1F95A"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F95A"
+  },
+  {
+    "input": "What emoji represents stuffed?",
+    "output": "U+1F959"
+  },
+  {
+    "input": "What emoji represents falafel?",
+    "output": "U+1F959"
+  },
+  {
+    "input": "What emoji represents gyro?",
+    "output": "U+1F959"
+  },
+  {
+    "input": "What emoji represents flatbread?",
+    "output": "U+1F959"
+  },
+  {
+    "input": "What emoji represents kebab?",
+    "output": "U+1F959"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F959"
+  },
+  {
+    "input": "What emoji represents shallow?",
+    "output": "U+1F958"
+  },
+  {
+    "input": "What emoji represents pan?",
+    "output": "U+1F958"
+  },
+  {
+    "input": "What emoji represents paella?",
+    "output": "U+1F958"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F958"
+  },
+  {
+    "input": "What emoji represents casserole?",
+    "output": "U+1F958"
+  },
+  {
+    "input": "What emoji represents salad?",
+    "output": "U+1F957"
+  },
+  {
+    "input": "What emoji represents green?",
+    "output": "U+1F957"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F957"
+  },
+  {
+    "input": "What emoji represents french?",
+    "output": "U+1F956"
+  },
+  {
+    "input": "What emoji represents bread?",
+    "output": "U+1F956"
+  },
+  {
+    "input": "What emoji represents baguette?",
+    "output": "U+1F956"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F956"
+  },
+  {
+    "input": "What emoji represents carrot?",
+    "output": "U+1F955"
+  },
+  {
+    "input": "What emoji represents vegetable?",
+    "output": "U+1F955"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F955"
+  },
+  {
+    "input": "What emoji represents vegetable?",
+    "output": "U+1F954"
+  },
+  {
+    "input": "What emoji represents potato?",
+    "output": "U+1F954"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F954"
+  },
+  {
+    "input": "What emoji represents bacon?",
+    "output": "U+1F953"
+  },
+  {
+    "input": "What emoji represents meat?",
+    "output": "U+1F953"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F953"
+  },
+  {
+    "input": "What emoji represents vegetable?",
+    "output": "U+1F952"
+  },
+  {
+    "input": "What emoji represents cucumber?",
+    "output": "U+1F952"
+  },
+  {
+    "input": "What emoji represents pickle?",
+    "output": "U+1F952"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F952"
+  },
+  {
+    "input": "What emoji represents fruit?",
+    "output": "U+1F951"
+  },
+  {
+    "input": "What emoji represents avocado?",
+    "output": "U+1F951"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F951"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F486 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F486 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F486 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents massage?",
+    "output": "U+1F486 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents french?",
+    "output": "U+1F950"
+  },
+  {
+    "input": "What emoji represents bread?",
+    "output": "U+1F950"
+  },
+  {
+    "input": "What emoji represents crescent roll?",
+    "output": "U+1F950"
+  },
+  {
+    "input": "What emoji represents croissant?",
+    "output": "U+1F950"
+  },
+  {
+    "input": "What emoji represents food?",
+    "output": "U+1F950"
+  },
+  {
+    "input": "What emoji represents uniform?",
+    "output": "U+1F94B"
+  },
+  {
+    "input": "What emoji represents martial arts?",
+    "output": "U+1F94B"
+  },
+  {
+    "input": "What emoji represents taekwondo?",
+    "output": "U+1F94B"
+  },
+  {
+    "input": "What emoji represents judo?",
+    "output": "U+1F94B"
+  },
+  {
+    "input": "What emoji represents karate?",
+    "output": "U+1F94B"
+  },
+  {
+    "input": "What emoji represents boxing?",
+    "output": "U+1F94A"
+  },
+  {
+    "input": "What emoji represents glove?",
+    "output": "U+1F94A"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F469 U+1F3FF U+200D U+2708 U+FE0F"
+  },
+  {
+    "input": "What emoji represents plane?",
+    "output": "U+1F469 U+1F3FF U+200D U+2708 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+1F3FF U+200D U+2708 U+FE0F"
+  },
+  {
+    "input": "What emoji represents pilot?",
+    "output": "U+1F469 U+1F3FF U+200D U+2708 U+FE0F"
+  },
+  {
+    "input": "What emoji represents pouting?",
+    "output": "U+1F64E U+1F3FD U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents gesture?",
+    "output": "U+1F64E U+1F3FD U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F64E U+1F3FD U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F64E U+1F3FD U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents bronze?",
+    "output": "U+1F949"
+  },
+  {
+    "input": "What emoji represents third?",
+    "output": "U+1F949"
+  },
+  {
+    "input": "What emoji represents medal?",
+    "output": "U+1F949"
+  },
+  {
+    "input": "What emoji represents second?",
+    "output": "U+1F948"
+  },
+  {
+    "input": "What emoji represents medal?",
+    "output": "U+1F948"
+  },
+  {
+    "input": "What emoji represents silver?",
+    "output": "U+1F948"
+  },
+  {
+    "input": "What emoji represents gold?",
+    "output": "U+1F947"
+  },
+  {
+    "input": "What emoji represents medal?",
+    "output": "U+1F947"
+  },
+  {
+    "input": "What emoji represents first?",
+    "output": "U+1F947"
+  },
+  {
+    "input": "What emoji represents goal?",
+    "output": "U+1F945"
+  },
+  {
+    "input": "What emoji represents net?",
+    "output": "U+1F945"
+  },
+  {
+    "input": "What emoji represents tableware?",
+    "output": "U+1F944"
+  },
+  {
+    "input": "What emoji represents spoon?",
+    "output": "U+1F944"
+  },
+  {
+    "input": "What emoji represents whisky?",
+    "output": "U+1F943"
+  },
+  {
+    "input": "What emoji represents liquor?",
+    "output": "U+1F943"
+  },
+  {
+    "input": "What emoji represents shot?",
+    "output": "U+1F943"
+  },
+  {
+    "input": "What emoji represents tumbler?",
+    "output": "U+1F943"
+  },
+  {
+    "input": "What emoji represents glass?",
+    "output": "U+1F943"
+  },
+  {
+    "input": "What emoji represents celebrate?",
+    "output": "U+1F942"
+  },
+  {
+    "input": "What emoji represents drink?",
+    "output": "U+1F942"
+  },
+  {
+    "input": "What emoji represents clink?",
+    "output": "U+1F942"
+  },
+  {
+    "input": "What emoji represents glass?",
+    "output": "U+1F942"
+  },
+  {
+    "input": "What emoji represents drum?",
+    "output": "U+1F941"
+  },
+  {
+    "input": "What emoji represents drumsticks?",
+    "output": "U+1F941"
+  },
+  {
+    "input": "What emoji represents music?",
+    "output": "U+1F941"
+  },
+  {
+    "input": "What emoji represents wilted?",
+    "output": "U+1F940"
+  },
+  {
+    "input": "What emoji represents flower?",
+    "output": "U+1F940"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+26F9 U+1F3FF"
+  },
+  {
+    "input": "What emoji represents ball?",
+    "output": "U+26F9 U+1F3FF"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+26F9 U+1F3FE"
+  },
+  {
+    "input": "What emoji represents ball?",
+    "output": "U+26F9 U+1F3FE"
+  },
+  {
+    "input": "What emoji represents ball?",
+    "output": "U+26F9 U+1F3FD"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+26F9 U+1F3FD"
+  },
+  {
+    "input": "What emoji represents ball?",
+    "output": "U+1F93E"
+  },
+  {
+    "input": "What emoji represents handball?",
+    "output": "U+1F93E"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+26F9 U+1F3FC"
+  },
+  {
+    "input": "What emoji represents ball?",
+    "output": "U+26F9 U+1F3FC"
+  },
+  {
+    "input": "What emoji represents water?",
+    "output": "U+1F93D"
+  },
+  {
+    "input": "What emoji represents polo?",
+    "output": "U+1F93D"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+26F9 U+1F3FB"
+  },
+  {
+    "input": "What emoji represents ball?",
+    "output": "U+26F9 U+1F3FB"
+  },
+  {
+    "input": "What emoji represents wrestler?",
+    "output": "U+1F93C"
+  },
+  {
+    "input": "What emoji represents wrestle?",
+    "output": "U+1F93C"
+  },
+  {
+    "input": "What emoji represents sword?",
+    "output": "U+1F93A"
+  },
+  {
+    "input": "What emoji represents fencing?",
+    "output": "U+1F93A"
+  },
+  {
+    "input": "What emoji represents fencer?",
+    "output": "U+1F93A"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F575 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents sleuth?",
+    "output": "U+1F575 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents spy?",
+    "output": "U+1F575 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F575 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents detective?",
+    "output": "U+1F575 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents skill?",
+    "output": "U+1F939"
+  },
+  {
+    "input": "What emoji represents multitask?",
+    "output": "U+1F939"
+  },
+  {
+    "input": "What emoji represents juggle?",
+    "output": "U+1F939"
+  },
+  {
+    "input": "What emoji represents balance?",
+    "output": "U+1F939"
+  },
+  {
+    "input": "What emoji represents gymnastics?",
+    "output": "U+1F938"
+  },
+  {
+    "input": "What emoji represents cartwheel?",
+    "output": "U+1F938"
+  },
+  {
+    "input": "What emoji represents bunny ear?",
+    "output": "U+1F46F U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents partying?",
+    "output": "U+1F46F U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents men?",
+    "output": "U+1F46F U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dancer?",
+    "output": "U+1F46F U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents indifference?",
+    "output": "U+1F937"
+  },
+  {
+    "input": "What emoji represents shrug?",
+    "output": "U+1F937"
+  },
+  {
+    "input": "What emoji represents ignorance?",
+    "output": "U+1F937"
+  },
+  {
+    "input": "What emoji represents doubt?",
+    "output": "U+1F937"
+  },
+  {
+    "input": "What emoji represents claus?",
+    "output": "U+1F936"
+  },
+  {
+    "input": "What emoji represents mother?",
+    "output": "U+1F936"
+  },
+  {
+    "input": "What emoji represents mrs.?",
+    "output": "U+1F936"
+  },
+  {
+    "input": "What emoji represents celebration?",
+    "output": "U+1F936"
+  },
+  {
+    "input": "What emoji represents christmas?",
+    "output": "U+1F936"
+  },
+  {
+    "input": "What emoji represents tuxedo?",
+    "output": "U+1F935"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F935"
+  },
+  {
+    "input": "What emoji represents groom?",
+    "output": "U+1F935"
+  },
+  {
+    "input": "What emoji represents prince?",
+    "output": "U+1F934"
+  },
+  {
+    "input": "What emoji represents selfie?",
+    "output": "U+1F933"
+  },
+  {
+    "input": "What emoji represents phone?",
+    "output": "U+1F933"
+  },
+  {
+    "input": "What emoji represents camera?",
+    "output": "U+1F933"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F3CC U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents golf?",
+    "output": "U+1F3CC U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F3CC U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F930"
+  },
+  {
+    "input": "What emoji represents pregnant?",
+    "output": "U+1F930"
+  },
+  {
+    "input": "What emoji represents turban?",
+    "output": "U+1F473 U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F473 U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F645 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F645 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents forbidden?",
+    "output": "U+1F645 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents gesture?",
+    "output": "U+1F645 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents prohibited?",
+    "output": "U+1F645 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents no?",
+    "output": "U+1F645 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F645 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F482 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents guard?",
+    "output": "U+1F482 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F482 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents sneeze?",
+    "output": "U+1F927"
+  },
+  {
+    "input": "What emoji represents gesundheit?",
+    "output": "U+1F927"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F927"
+  },
+  {
+    "input": "What emoji represents exasperation?",
+    "output": "U+1F926"
+  },
+  {
+    "input": "What emoji represents disbelief?",
+    "output": "U+1F926"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F926"
+  },
+  {
+    "input": "What emoji represents palm?",
+    "output": "U+1F926"
+  },
+  {
+    "input": "What emoji represents lie?",
+    "output": "U+1F925"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F925"
+  },
+  {
+    "input": "What emoji represents pinocchio?",
+    "output": "U+1F925"
+  },
+  {
+    "input": "What emoji represents drooling?",
+    "output": "U+1F924"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F924"
+  },
+  {
+    "input": "What emoji represents laugh?",
+    "output": "U+1F923"
+  },
+  {
+    "input": "What emoji represents rolling?",
+    "output": "U+1F923"
+  },
+  {
+    "input": "What emoji represents floor?",
+    "output": "U+1F923"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F923"
+  },
+  {
+    "input": "What emoji represents nauseated?",
+    "output": "U+1F922"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F922"
+  },
+  {
+    "input": "What emoji represents vomit?",
+    "output": "U+1F922"
+  },
+  {
+    "input": "What emoji represents racing?",
+    "output": "U+1F3C3 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents running?",
+    "output": "U+1F3C3 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents marathon?",
+    "output": "U+1F3C3 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F3C3 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F921"
+  },
+  {
+    "input": "What emoji represents clown?",
+    "output": "U+1F921"
+  },
+  {
+    "input": "What emoji represents cowgirl?",
+    "output": "U+1F920"
+  },
+  {
+    "input": "What emoji represents hat?",
+    "output": "U+1F920"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F920"
+  },
+  {
+    "input": "What emoji represents cowboy?",
+    "output": "U+1F920"
+  },
+  {
+    "input": "What emoji represents gymnastics?",
+    "output": "U+1F938 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F938 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents cartwheel?",
+    "output": "U+1F938 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F938 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents luck?",
+    "output": "U+1F91E"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F91E"
+  },
+  {
+    "input": "What emoji represents finger?",
+    "output": "U+1F91E"
+  },
+  {
+    "input": "What emoji represents cross?",
+    "output": "U+1F91E"
+  },
+  {
+    "input": "What emoji represents golf?",
+    "output": "U+1F3CC U+FE0F U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F3CC U+FE0F U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F91D"
+  },
+  {
+    "input": "What emoji represents shake?",
+    "output": "U+1F91D"
+  },
+  {
+    "input": "What emoji represents agreement?",
+    "output": "U+1F91D"
+  },
+  {
+    "input": "What emoji represents meeting?",
+    "output": "U+1F91D"
+  },
+  {
+    "input": "What emoji represents handshake?",
+    "output": "U+1F91D"
+  },
+  {
+    "input": "What emoji represents fist?",
+    "output": "U+1F91C"
+  },
+  {
+    "input": "What emoji represents rightwards?",
+    "output": "U+1F91C"
+  },
+  {
+    "input": "What emoji represents leftwards?",
+    "output": "U+1F91B"
+  },
+  {
+    "input": "What emoji represents fist?",
+    "output": "U+1F91B"
+  },
+  {
+    "input": "What emoji represents backhand?",
+    "output": "U+1F91A"
+  },
+  {
+    "input": "What emoji represents raised?",
+    "output": "U+1F91A"
+  },
+  {
+    "input": "What emoji represents industrial?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents factory?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents assembly?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents worker?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F486 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents massage?",
+    "output": "U+1F486 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F486 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents instructor?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents professor?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents teacher?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents racing?",
+    "output": "U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents running?",
+    "output": "U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents marathon?",
+    "output": "U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F919"
+  },
+  {
+    "input": "What emoji represents call?",
+    "output": "U+1F919"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F918"
+  },
+  {
+    "input": "What emoji represents horns?",
+    "output": "U+1F918"
+  },
+  {
+    "input": "What emoji represents finger?",
+    "output": "U+1F918"
+  },
+  {
+    "input": "What emoji represents rock-on?",
+    "output": "U+1F918"
+  },
+  {
+    "input": "What emoji represents hug?",
+    "output": "U+1F917"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F917"
+  },
+  {
+    "input": "What emoji represents hugging?",
+    "output": "U+1F917"
+  },
+  {
+    "input": "What emoji represents monster?",
+    "output": "U+1F916"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F916"
+  },
+  {
+    "input": "What emoji represents robot?",
+    "output": "U+1F916"
+  },
+  {
+    "input": "What emoji represents hurt?",
+    "output": "U+1F915"
+  },
+  {
+    "input": "What emoji represents bandage?",
+    "output": "U+1F915"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F915"
+  },
+  {
+    "input": "What emoji represents injury?",
+    "output": "U+1F915"
+  },
+  {
+    "input": "What emoji represents thinking?",
+    "output": "U+1F914"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F914"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F913"
+  },
+  {
+    "input": "What emoji represents geek?",
+    "output": "U+1F913"
+  },
+  {
+    "input": "What emoji represents nerd?",
+    "output": "U+1F913"
+  },
+  {
+    "input": "What emoji represents thermometer?",
+    "output": "U+1F912"
+  },
+  {
+    "input": "What emoji represents ill?",
+    "output": "U+1F912"
+  },
+  {
+    "input": "What emoji represents sick?",
+    "output": "U+1F912"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F912"
+  },
+  {
+    "input": "What emoji represents mouth?",
+    "output": "U+1F911"
+  },
+  {
+    "input": "What emoji represents money?",
+    "output": "U+1F911"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F911"
+  },
+  {
+    "input": "What emoji represents zipper?",
+    "output": "U+1F910"
+  },
+  {
+    "input": "What emoji represents mouth?",
+    "output": "U+1F910"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F910"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F471 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F471 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents blonde?",
+    "output": "U+1F471 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents doctor?",
+    "output": "U+1F469 U+1F3FD U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents nurse?",
+    "output": "U+1F469 U+1F3FD U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents healthcare?",
+    "output": "U+1F469 U+1F3FD U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+1F3FD U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents therapist?",
+    "output": "U+1F469 U+1F3FD U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F469 U+1F3FD U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F93D U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F93D U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents water polo?",
+    "output": "U+1F93D U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents walk?",
+    "output": "U+1F6B6 U+1F3FB U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+1F6B6 U+1F3FB U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents hike?",
+    "output": "U+1F6B6 U+1F3FB U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F6B6 U+1F3FB U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F646 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F646 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents ok?",
+    "output": "U+1F646 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents gesture?",
+    "output": "U+1F646 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F646 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents multitask?",
+    "output": "U+1F939 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents juggling?",
+    "output": "U+1F939 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F939 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F939 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F3C4 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F3C4 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents surfing?",
+    "output": "U+1F3C4 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents ski?",
+    "output": "U+1F3C2 U+1F3FF"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F3C2 U+1F3FF"
+  },
+  {
+    "input": "What emoji represents snowboard?",
+    "output": "U+1F3C2 U+1F3FF"
+  },
+  {
+    "input": "What emoji represents snow?",
+    "output": "U+1F3C2 U+1F3FF"
+  },
+  {
+    "input": "What emoji represents ski?",
+    "output": "U+1F3C2 U+1F3FE"
+  },
+  {
+    "input": "What emoji represents snowboard?",
+    "output": "U+1F3C2 U+1F3FE"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F3C2 U+1F3FE"
+  },
+  {
+    "input": "What emoji represents snow?",
+    "output": "U+1F3C2 U+1F3FE"
+  },
+  {
+    "input": "What emoji represents ski?",
+    "output": "U+1F3C2 U+1F3FD"
+  },
+  {
+    "input": "What emoji represents snowboard?",
+    "output": "U+1F3C2 U+1F3FD"
+  },
+  {
+    "input": "What emoji represents snow?",
+    "output": "U+1F3C2 U+1F3FD"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F3C2 U+1F3FD"
+  },
+  {
+    "input": "What emoji represents ski?",
+    "output": "U+1F3C2 U+1F3FC"
+  },
+  {
+    "input": "What emoji represents snowboard?",
+    "output": "U+1F3C2 U+1F3FC"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F3C2 U+1F3FC"
+  },
+  {
+    "input": "What emoji represents snow?",
+    "output": "U+1F3C2 U+1F3FC"
+  },
+  {
+    "input": "What emoji represents ski?",
+    "output": "U+1F3C2 U+1F3FB"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+1F3C2 U+1F3FB"
+  },
+  {
+    "input": "What emoji represents snowboard?",
+    "output": "U+1F3C2 U+1F3FB"
+  },
+  {
+    "input": "What emoji represents snow?",
+    "output": "U+1F3C2 U+1F3FB"
+  },
+  {
+    "input": "What emoji represents artist?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3A8"
+  },
+  {
+    "input": "What emoji represents palette?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3A8"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3A8"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3A8"
+  },
+  {
+    "input": "What emoji represents m?",
+    "output": "U+24C2"
+  },
+  {
+    "input": "What emoji represents circle?",
+    "output": "U+24C2"
+  },
+  {
+    "input": "What emoji represents entertainer?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents singer?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents actor?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents star?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents rock?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F477 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F477 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents worker?",
+    "output": "U+1F477 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents construction?",
+    "output": "U+1F477 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents judge?",
+    "output": "U+1F469 U+1F3FD U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+1F3FD U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents scales?",
+    "output": "U+1F469 U+1F3FD U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F469 U+1F3FD U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F486 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents face?",
+    "output": "U+1F486 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents massage?",
+    "output": "U+1F486 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F486 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F3CA U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents swim?",
+    "output": "U+1F3CA U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F3CA U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F937 U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents indifference?",
+    "output": "U+1F937 U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents shrug?",
+    "output": "U+1F937 U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents ignorance?",
+    "output": "U+1F937 U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents doubt?",
+    "output": "U+1F937 U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F575 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents sleuth?",
+    "output": "U+1F575 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents spy?",
+    "output": "U+1F575 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents detective?",
+    "output": "U+1F575 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F575 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents turban?",
+    "output": "U+1F473 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F473 U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents family?",
+    "output": "U+1F468 U+200D U+1F469 U+200D U+1F467"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F468 U+200D U+1F469 U+200D U+1F467"
+  },
+  {
+    "input": "What emoji represents girl?",
+    "output": "U+1F468 U+200D U+1F469 U+200D U+1F467"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+200D U+1F469 U+200D U+1F467"
+  },
+  {
+    "input": "What emoji represents family?",
+    "output": "U+1F468 U+200D U+1F469 U+200D U+1F466"
+  },
+  {
+    "input": "What emoji represents boy?",
+    "output": "U+1F468 U+200D U+1F469 U+200D U+1F466"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F468 U+200D U+1F469 U+200D U+1F466"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+200D U+1F469 U+200D U+1F466"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F487 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F487 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents haircut?",
+    "output": "U+1F487 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F46E U+1F3FF"
+  },
+  {
+    "input": "What emoji represents officer?",
+    "output": "U+1F46E U+1F3FF"
+  },
+  {
+    "input": "What emoji represents police?",
+    "output": "U+1F46E U+1F3FF"
+  },
+  {
+    "input": "What emoji represents cop?",
+    "output": "U+1F46E U+1F3FF"
+  },
+  {
+    "input": "What emoji represents officer?",
+    "output": "U+1F46E U+1F3FE"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F46E U+1F3FE"
+  },
+  {
+    "input": "What emoji represents police?",
+    "output": "U+1F46E U+1F3FE"
+  },
+  {
+    "input": "What emoji represents cop?",
+    "output": "U+1F46E U+1F3FE"
+  },
+  {
+    "input": "What emoji represents officer?",
+    "output": "U+1F46E U+1F3FD"
+  },
+  {
+    "input": "What emoji represents police?",
+    "output": "U+1F46E U+1F3FD"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F46E U+1F3FD"
+  },
+  {
+    "input": "What emoji represents cop?",
+    "output": "U+1F46E U+1F3FD"
+  },
+  {
+    "input": "What emoji represents officer?",
+    "output": "U+1F46E U+1F3FC"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F46E U+1F3FC"
+  },
+  {
+    "input": "What emoji represents police?",
+    "output": "U+1F46E U+1F3FC"
+  },
+  {
+    "input": "What emoji represents cop?",
+    "output": "U+1F46E U+1F3FC"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+1F46E U+1F3FB"
+  },
+  {
+    "input": "What emoji represents officer?",
+    "output": "U+1F46E U+1F3FB"
+  },
+  {
+    "input": "What emoji represents police?",
+    "output": "U+1F46E U+1F3FB"
+  },
+  {
+    "input": "What emoji represents cop?",
+    "output": "U+1F46E U+1F3FB"
+  },
+  {
+    "input": "What emoji represents manager?",
+    "output": "U+1F468 U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents business?",
+    "output": "U+1F468 U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents office?",
+    "output": "U+1F468 U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents architect?",
+    "output": "U+1F468 U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents white-collar?",
+    "output": "U+1F468 U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents coder?",
+    "output": "U+1F468 U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents developer?",
+    "output": "U+1F468 U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents software?",
+    "output": "U+1F468 U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents technologist?",
+    "output": "U+1F468 U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents inventor?",
+    "output": "U+1F468 U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F3C3 U+1F3FF"
+  },
+  {
+    "input": "What emoji represents running?",
+    "output": "U+1F3C3 U+1F3FF"
+  },
+  {
+    "input": "What emoji represents marathon?",
+    "output": "U+1F3C3 U+1F3FF"
+  },
+  {
+    "input": "What emoji represents running?",
+    "output": "U+1F3C3 U+1F3FE"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F3C3 U+1F3FE"
+  },
+  {
+    "input": "What emoji represents marathon?",
+    "output": "U+1F3C3 U+1F3FE"
+  },
+  {
+    "input": "What emoji represents running?",
+    "output": "U+1F3C3 U+1F3FD"
+  },
+  {
+    "input": "What emoji represents marathon?",
+    "output": "U+1F3C3 U+1F3FD"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F3C3 U+1F3FD"
+  },
+  {
+    "input": "What emoji represents bicycle?",
+    "output": "U+1F6B4 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents cyclist?",
+    "output": "U+1F6B4 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F6B4 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F6B4 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents biking?",
+    "output": "U+1F6B4 U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents running?",
+    "output": "U+1F3C3 U+1F3FC"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F3C3 U+1F3FC"
+  },
+  {
+    "input": "What emoji represents marathon?",
+    "output": "U+1F3C3 U+1F3FC"
+  },
+  {
+    "input": "What emoji represents running?",
+    "output": "U+1F3C3 U+1F3FB"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+1F3C3 U+1F3FB"
+  },
+  {
+    "input": "What emoji represents marathon?",
+    "output": "U+1F3C3 U+1F3FB"
+  },
+  {
+    "input": "What emoji represents plane?",
+    "output": "U+1F468 U+1F3FD U+200D U+2708 U+FE0F"
+  },
+  {
+    "input": "What emoji represents pilot?",
+    "output": "U+1F468 U+1F3FD U+200D U+2708 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F468 U+1F3FD U+200D U+2708 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FD U+200D U+2708 U+FE0F"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+1F64D U+1F3FB U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents frowning?",
+    "output": "U+1F64D U+1F3FB U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents gesture?",
+    "output": "U+1F64D U+1F3FB U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F64D U+1F3FB U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+26F9 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+26F9 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents ball?",
+    "output": "U+26F9 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents manager?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents business?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents office?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents architect?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents white-collar?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BC"
+  },
+  {
+    "input": "What emoji represents coder?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents developer?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents software?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents technologist?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents inventor?",
+    "output": "U+1F469 U+1F3FE U+200D U+1F4BB"
+  },
+  {
+    "input": "What emoji represents industrial?",
+    "output": "U+1F469 U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents factory?",
+    "output": "U+1F469 U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents assembly?",
+    "output": "U+1F469 U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents worker?",
+    "output": "U+1F469 U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F93D U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents water polo?",
+    "output": "U+1F93D U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F93D U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents instructor?",
+    "output": "U+1F469 U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents professor?",
+    "output": "U+1F469 U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents teacher?",
+    "output": "U+1F469 U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F646 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F646 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents ok?",
+    "output": "U+1F646 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents gesture?",
+    "output": "U+1F646 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F646 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents industrial?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents factory?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents assembly?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents worker?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3ED"
+  },
+  {
+    "input": "What emoji represents instructor?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents professor?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents teacher?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3EB"
+  },
+  {
+    "input": "What emoji represents multitask?",
+    "output": "U+1F939 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents juggling?",
+    "output": "U+1F939 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F939 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F939 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+1F64E U+1F3FB U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents pouting?",
+    "output": "U+1F64E U+1F3FB U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents gesture?",
+    "output": "U+1F64E U+1F3FB U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F64E U+1F3FB U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F93E U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F93E U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents handball?",
+    "output": "U+1F93E U+1F3FE U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents graduate?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F393"
+  },
+  {
+    "input": "What emoji represents student?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F393"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F393"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F393"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+1F468 U+1F3FB U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents doctor?",
+    "output": "U+1F468 U+1F3FB U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents nurse?",
+    "output": "U+1F468 U+1F3FB U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents healthcare?",
+    "output": "U+1F468 U+1F3FB U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents therapist?",
+    "output": "U+1F468 U+1F3FB U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FB U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F3C4 U+1F3FF"
+  },
+  {
+    "input": "What emoji represents surfing?",
+    "output": "U+1F3C4 U+1F3FF"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F3C4 U+1F3FE"
+  },
+  {
+    "input": "What emoji represents surfing?",
+    "output": "U+1F3C4 U+1F3FE"
+  },
+  {
+    "input": "What emoji represents surfing?",
+    "output": "U+1F3C4 U+1F3FD"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F3C4 U+1F3FD"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F3C4 U+1F3FC"
+  },
+  {
+    "input": "What emoji represents surfing?",
+    "output": "U+1F3C4 U+1F3FC"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+1F3C4 U+1F3FB"
+  },
+  {
+    "input": "What emoji represents surfing?",
+    "output": "U+1F3C4 U+1F3FB"
+  },
+  {
+    "input": "What emoji represents hand?",
+    "output": "U+1F645 U+1F3FD U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents forbidden?",
+    "output": "U+1F645 U+1F3FD U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents gesture?",
+    "output": "U+1F645 U+1F3FD U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F645 U+1F3FD U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents prohibited?",
+    "output": "U+1F645 U+1F3FD U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents no?",
+    "output": "U+1F645 U+1F3FD U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F645 U+1F3FD U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents couple?",
+    "output": "U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F482 U+1F3FD U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents guard?",
+    "output": "U+1F482 U+1F3FD U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F482 U+1F3FD U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F477 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents worker?",
+    "output": "U+1F477 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F477 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents construction?",
+    "output": "U+1F477 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents doctor?",
+    "output": "U+1F469 U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents nurse?",
+    "output": "U+1F469 U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents healthcare?",
+    "output": "U+1F469 U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents therapist?",
+    "output": "U+1F469 U+200D U+2695 U+FE0F"
+  },
+  {
+    "input": "What emoji represents artist?",
+    "output": "U+1F469 U+200D U+1F3A8"
+  },
+  {
+    "input": "What emoji represents palette?",
+    "output": "U+1F469 U+200D U+1F3A8"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+200D U+1F3A8"
+  },
+  {
+    "input": "What emoji represents eye?",
+    "output": "U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F"
+  },
+  {
+    "input": "What emoji represents witness?",
+    "output": "U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F"
+  },
+  {
+    "input": "What emoji represents speech bubble?",
+    "output": "U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F"
+  },
+  {
+    "input": "What emoji represents entertainer?",
+    "output": "U+1F469 U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents singer?",
+    "output": "U+1F469 U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents actor?",
+    "output": "U+1F469 U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents star?",
+    "output": "U+1F469 U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents rock?",
+    "output": "U+1F469 U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents cook?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F373"
+  },
+  {
+    "input": "What emoji represents chef?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F373"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F373"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F373"
+  },
+  {
+    "input": "What emoji represents racing?",
+    "output": "U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents running?",
+    "output": "U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents marathon?",
+    "output": "U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F251"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F251"
+  },
+  {
+    "input": "What emoji represents “acceptable”?",
+    "output": "U+1F251"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F251"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F250"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F250"
+  },
+  {
+    "input": "What emoji represents “bargain”?",
+    "output": "U+1F250"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F250"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3A8"
+  },
+  {
+    "input": "What emoji represents artist?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3A8"
+  },
+  {
+    "input": "What emoji represents palette?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3A8"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3A8"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents entertainer?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents singer?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents actor?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents star?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents rock?",
+    "output": "U+1F469 U+1F3FF U+200D U+1F3A4"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F3CA U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents swim?",
+    "output": "U+1F3CA U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F3CA U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F23A"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F23A"
+  },
+  {
+    "input": "What emoji represents “open for business”?",
+    "output": "U+1F23A"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F23A"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F239"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F239"
+  },
+  {
+    "input": "What emoji represents “discount”?",
+    "output": "U+1F239"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F239"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F238"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F238"
+  },
+  {
+    "input": "What emoji represents “application”?",
+    "output": "U+1F238"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F238"
+  },
+  {
+    "input": "What emoji represents “monthly amount”?",
+    "output": "U+1F237"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F237"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F237"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F237"
+  },
+  {
+    "input": "What emoji represents “not free of charge”?",
+    "output": "U+1F236"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F236"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F236"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F236"
+  },
+  {
+    "input": "What emoji represents “no vacancy”?",
+    "output": "U+1F235"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F235"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F235"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F235"
+  },
+  {
+    "input": "What emoji represents medium-light skin tone?",
+    "output": "U+1F487 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F487 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents haircut?",
+    "output": "U+1F487 U+1F3FC U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F234"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F234"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F234"
+  },
+  {
+    "input": "What emoji represents “passing grade”?",
+    "output": "U+1F234"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F233"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F233"
+  },
+  {
+    "input": "What emoji represents “vacancy”?",
+    "output": "U+1F233"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F233"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+1F468 U+1F3FB U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents justice?",
+    "output": "U+1F468 U+1F3FB U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents scales?",
+    "output": "U+1F468 U+1F3FB U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FB U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F232"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F232"
+  },
+  {
+    "input": "What emoji represents “prohibited”?",
+    "output": "U+1F232"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F232"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F22F"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F22F"
+  },
+  {
+    "input": "What emoji represents “reserved”?",
+    "output": "U+1F22F"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F22F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F6A3 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents rowboat?",
+    "output": "U+1F6A3 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F6A3 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents boat?",
+    "output": "U+1F6A3 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents bicycle?",
+    "output": "U+1F6B4 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents cyclist?",
+    "output": "U+1F6B4 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents medium-dark skin tone?",
+    "output": "U+1F6B4 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents biking?",
+    "output": "U+1F6B4 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F6B4 U+1F3FE U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents farmer?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F33E"
+  },
+  {
+    "input": "What emoji represents gardener?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F33E"
+  },
+  {
+    "input": "What emoji represents rancher?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F33E"
+  },
+  {
+    "input": "What emoji represents medium skin tone?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F33E"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FD U+200D U+1F33E"
+  },
+  {
+    "input": "What emoji represents pouting?",
+    "output": "U+1F64E U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents gesture?",
+    "output": "U+1F64E U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F64E U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F3CB U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents weight lifter?",
+    "output": "U+1F3CB U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F3CB U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents judge?",
+    "output": "U+1F469 U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F469 U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents scales?",
+    "output": "U+1F469 U+200D U+2696 U+FE0F"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F468 U+1F3FF U+200D U+1F692"
+  },
+  {
+    "input": "What emoji represents firetruck?",
+    "output": "U+1F468 U+1F3FF U+200D U+1F692"
+  },
+  {
+    "input": "What emoji represents firefighter?",
+    "output": "U+1F468 U+1F3FF U+200D U+1F692"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FF U+200D U+1F692"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+26F9 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents ball?",
+    "output": "U+26F9 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+26F9 U+1F3FF U+200D U+2642 U+FE0F"
+  },
+  {
+    "input": "What emoji represents firetruck?",
+    "output": "U+1F468 U+1F3FB U+200D U+1F692"
+  },
+  {
+    "input": "What emoji represents light skin tone?",
+    "output": "U+1F468 U+1F3FB U+200D U+1F692"
+  },
+  {
+    "input": "What emoji represents firefighter?",
+    "output": "U+1F468 U+1F3FB U+200D U+1F692"
+  },
+  {
+    "input": "What emoji represents man?",
+    "output": "U+1F468 U+1F3FB U+200D U+1F692"
+  },
+  {
+    "input": "What emoji represents japanese?",
+    "output": "U+1F21A"
+  },
+  {
+    "input": "What emoji represents ??",
+    "output": "U+1F21A"
+  },
+  {
+    "input": "What emoji represents “free of charge”?",
+    "output": "U+1F21A"
+  },
+  {
+    "input": "What emoji represents ideograph?",
+    "output": "U+1F21A"
+  },
+  {
+    "input": "What emoji represents dark skin tone?",
+    "output": "U+1F937 U+1F3FF U+200D U+2640 U+FE0F"
+  },
+  {
+    "input": "What emoji represents woman?",
+    "output": "U+1F937 U+1F3FF U+200D U+2640 U+FE0F"
+  }
+]

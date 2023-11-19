@@ -29,8 +29,6 @@ def generate_text(prompt, max_length=50):
     return generated_text
 
 # Example prompt
-prompt = """System: HTML Chat Assistant that only speaks in html tags
-User: How are you?
-Assistant: ```"""
+prompt = "System: HTML Chat Assistant that only speaks in html tags\nUser: Hello is a nice word.\nAssistant: ```"
 generated_text = generate_text(prompt)
 print(generated_text)

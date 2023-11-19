@@ -1,0 +1,3119 @@
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<mark>U+1F645 U+1F3FF U+200D U+2640 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<mark>U+1F645 U+1F3FF U+200D U+2640 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: forbidden
+Assistant: ```<h2>U+1F645 U+1F3FF U+200D U+2640 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gesture
+Assistant: ```<h1>U+1F645 U+1F3FF U+200D U+2640 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h3>U+1F645 U+1F3FF U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: prohibited
+Assistant: ```<mark>U+1F645 U+1F3FF U+200D U+2640 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: no
+Assistant: ```<code>U+1F645 U+1F3FF U+200D U+2640 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<mark>U+1F482 U+1F3FF U+200D U+2640 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<blockquote>U+1F482 U+1F3FF U+200D U+2640 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: guard
+Assistant: ```<h2>U+1F482 U+1F3FF U+200D U+2640 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: racing
+Assistant: ```<blockquote>U+1F3C3 U+200D U+2640 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: running
+Assistant: ```<div>U+1F3C3 U+200D U+2640 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<em>U+1F3C3 U+200D U+2640 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: marathon
+Assistant: ```<h2>U+1F3C3 U+200D U+2640 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gymnastics
+Assistant: ```<h3>U+1F938 U+1F3FC U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<strong>U+1F938 U+1F3FC U+200D U+2640 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h3>U+1F938 U+1F3FC U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cartwheel
+Assistant: ```<pre>U+1F938 U+1F3FC U+200D U+2640 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<em>U+1F3CC U+FE0F U+200D U+2640 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: golf
+Assistant: ```<code>U+1F3CC U+FE0F U+200D U+2640 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: keycap
+Assistant: ```<code>U+0030 U+FE0F U+20E3</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: racing
+Assistant: ```<h1>U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: running
+Assistant: ```<strong>U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<h1>U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<div>U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: marathon
+Assistant: ```<p>U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: farmer
+Assistant: ```<p>U+1F468 U+1F3FE U+200D U+1F33E</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gardener
+Assistant: ```<div>U+1F468 U+1F3FE U+200D U+1F33E</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<blockquote>U+1F468 U+1F3FE U+200D U+1F33E</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: rancher
+Assistant: ```<blockquote>U+1F468 U+1F3FE U+200D U+1F33E</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<blockquote>U+1F468 U+1F3FE U+200D U+1F33E</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<strong>U+1F44F U+1F3FF</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: clap
+Assistant: ```<blockquote>U+1F44F U+1F3FF</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<em>U+1F44F U+1F3FF</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: clap
+Assistant: ```<pre>U+1F44F U+1F3FE</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<mark>U+1F44F U+1F3FE</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<code>U+1F44F U+1F3FE</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: clap
+Assistant: ```<mark>U+1F44F U+1F3FD</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<code>U+1F44F U+1F3FD</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<h1>U+1F44F U+1F3FD</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: clap
+Assistant: ```<div>U+1F44F U+1F3FC</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<div>U+1F44F U+1F3FC</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<code>U+1F44F U+1F3FC</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: clap
+Assistant: ```<blockquote>U+1F44F U+1F3FB</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: light skin tone
+Assistant: ```<pre>U+1F44F U+1F3FB</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<pre>U+1F44F U+1F3FB</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: walk
+Assistant: ```<pre>U+1F6B6 U+1F3FB U+200D U+2640 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: light skin tone
+Assistant: ```<h1>U+1F6B6 U+1F3FB U+200D U+2640 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h3>U+1F6B6 U+1F3FB U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hike
+Assistant: ```<code>U+1F6B6 U+1F3FB U+200D U+2640 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: firetruck
+Assistant: ```<span>U+1F468 U+1F3FC U+200D U+1F692</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<p>U+1F468 U+1F3FC U+200D U+1F692</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: firefighter
+Assistant: ```<p>U+1F468 U+1F3FC U+200D U+1F692</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<p>U+1F468 U+1F3FC U+200D U+1F692</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: squid
+Assistant: ```<span>U+1F991</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: molusc
+Assistant: ```<blockquote>U+1F991</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<blockquote>U+1F991</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: small
+Assistant: ```<pre>U+1F990</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: shrimp
+Assistant: ```<blockquote>U+1F990</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: shellfish
+Assistant: ```<h2>U+1F990</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<blockquote>U+1F990</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: rhinoceros
+Assistant: ```<pre>U+1F98F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: lizard
+Assistant: ```<em>U+1F98E</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: reptile
+Assistant: ```<p>U+1F98E</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gorilla
+Assistant: ```<p>U+1F98D</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: deer
+Assistant: ```<div>U+1F98C</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: pretty
+Assistant: ```<p>U+1F98B</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: insect
+Assistant: ```<strong>U+1F98B</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: butterfly
+Assistant: ```<pre>U+1F98B</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: fox
+Assistant: ```<h3>U+1F98A</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<div>U+1F98A</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: rocket
+Assistant: ```<h1>U+1F468 U+1F3FC U+200D U+1F680</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<code>U+1F468 U+1F3FC U+200D U+1F680</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: astronaut
+Assistant: ```<code>U+1F468 U+1F3FC U+200D U+1F680</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<em>U+1F468 U+1F3FC U+200D U+1F680</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: wise
+Assistant: ```<h2>U+1F989</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: owl
+Assistant: ```<pre>U+1F989</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bird
+Assistant: ```<h1>U+1F989</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: shark
+Assistant: ```<blockquote>U+1F988</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: fish
+Assistant: ```<strong>U+1F988</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bat
+Assistant: ```<blockquote>U+1F987</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: vampire
+Assistant: ```<div>U+1F987</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: duck
+Assistant: ```<span>U+1F986</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bird
+Assistant: ```<span>U+1F986</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: eagle
+Assistant: ```<span>U+1F985</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bird
+Assistant: ```<pre>U+1F985</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<mark>U+1F984</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: unicorn
+Assistant: ```<mark>U+1F984</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: family
+Assistant: ```<span>U+1F469 U+200D U+1F466 U+200D U+1F466</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: boy
+Assistant: ```<h2>U+1F469 U+200D U+1F466 U+200D U+1F466</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<span>U+1F469 U+200D U+1F466 U+200D U+1F466</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: turkey
+Assistant: ```<code>U+1F983</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: scorpio
+Assistant: ```<pre>U+1F982</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: zodiac
+Assistant: ```<blockquote>U+1F982</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: scorpius
+Assistant: ```<div>U+1F982</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<div>U+1F487 U+1F3FE U+200D U+2642 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<blockquote>U+1F487 U+1F3FE U+200D U+2642 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: haircut
+Assistant: ```<blockquote>U+1F487 U+1F3FE U+200D U+2642 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: lion
+Assistant: ```<em>U+1F981</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<code>U+1F981</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: zodiac
+Assistant: ```<blockquote>U+1F981</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: leo
+Assistant: ```<strong>U+1F981</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: mathematician
+Assistant: ```<span>U+1F468 U+200D U+1F52C</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: engineer
+Assistant: ```<h2>U+1F468 U+200D U+1F52C</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: physicist
+Assistant: ```<blockquote>U+1F468 U+200D U+1F52C</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: chemist
+Assistant: ```<h2>U+1F468 U+200D U+1F52C</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: biologist
+Assistant: ```<p>U+1F468 U+200D U+1F52C</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: scientist
+Assistant: ```<pre>U+1F468 U+200D U+1F52C</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<pre>U+1F468 U+200D U+1F52C</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cancer
+Assistant: ```<div>U+1F980</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: zodiac
+Assistant: ```<code>U+1F980</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: justice
+Assistant: ```<pre>U+1F468 U+1F3FD U+200D U+2696 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: scales
+Assistant: ```<mark>U+1F468 U+1F3FD U+200D U+2696 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<span>U+1F468 U+1F3FD U+200D U+2696 U+FE0F</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<code>U+1F468 U+1F3FD U+200D U+2696 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: electrician
+Assistant: ```<p>U+1F468 U+200D U+1F527</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: tradesperson
+Assistant: ```<mark>U+1F468 U+200D U+1F527</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: plumber
+Assistant: ```<strong>U+1F468 U+200D U+1F527</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: mechanic
+Assistant: ```<em>U+1F468 U+200D U+1F527</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<em>U+1F468 U+200D U+1F527</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: family
+Assistant: ```<h1>U+1F469 U+200D U+1F467</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<p>U+1F469 U+200D U+1F467</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: girl
+Assistant: ```<p>U+1F469 U+200D U+1F467</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: family
+Assistant: ```<p>U+1F469 U+200D U+1F466</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: boy
+Assistant: ```<h3>U+1F469 U+200D U+1F466</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<strong>U+1F469 U+200D U+1F466</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: mathematician
+Assistant: ```<h1>U+1F469 U+1F3FE U+200D U+1F52C</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: engineer
+Assistant: ```<pre>U+1F469 U+1F3FE U+200D U+1F52C</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<code>U+1F469 U+1F3FE U+200D U+1F52C</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<code>U+1F469 U+1F3FE U+200D U+1F52C</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: physicist
+Assistant: ```<h2>U+1F469 U+1F3FE U+200D U+1F52C</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: chemist
+Assistant: ```<h1>U+1F469 U+1F3FE U+200D U+1F52C</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: biologist
+Assistant: ```<h3>U+1F469 U+1F3FE U+200D U+1F52C</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: scientist
+Assistant: ```<blockquote>U+1F469 U+1F3FE U+200D U+1F52C</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: electrician
+Assistant: ```<h3>U+1F469 U+1F3FE U+200D U+1F527</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: tradesperson
+Assistant: ```<strong>U+1F469 U+1F3FE U+200D U+1F527</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: plumber
+Assistant: ```<blockquote>U+1F469 U+1F3FE U+200D U+1F527</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<pre>U+1F469 U+1F3FE U+200D U+1F527</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h2>U+1F469 U+1F3FE U+200D U+1F527</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: mechanic
+Assistant: ```<div>U+1F469 U+1F3FE U+200D U+1F527</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<em>U+1F64B U+1F3FC U+200D U+2640 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gesture
+Assistant: ```<code>U+1F64B U+1F3FC U+200D U+2640 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h2>U+1F64B U+1F3FC U+200D U+2640 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: raising hand
+Assistant: ```<pre>U+1F64B U+1F3FC U+200D U+2640 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: pancake
+Assistant: ```<h1>U+1F95E</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hotcake
+Assistant: ```<code>U+1F95E</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<strong>U+1F95E</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: crêpe
+Assistant: ```<pre>U+1F95E</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: fruit
+Assistant: ```<h2>U+1F95D</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: kiwi
+Assistant: ```<p>U+1F95D</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<mark>U+1F95D</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: vegetable
+Assistant: ```<p>U+1F95C</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: peanut
+Assistant: ```<mark>U+1F95C</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: nut
+Assistant: ```<p>U+1F95C</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<mark>U+1F95C</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: drink
+Assistant: ```<h1>U+1F95B</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: glass
+Assistant: ```<pre>U+1F95B</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: milk
+Assistant: ```<h1>U+1F95B</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bicycle
+Assistant: ```<h2>U+1F6B5 U+200D U+2642 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cyclist
+Assistant: ```<h2>U+1F6B5 U+200D U+2642 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bike
+Assistant: ```<mark>U+1F6B5 U+200D U+2642 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: mountain
+Assistant: ```<em>U+1F6B5 U+200D U+2642 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<p>U+1F6B5 U+200D U+2642 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: egg
+Assistant: ```<h3>U+1F95A</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<em>U+1F95A</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: stuffed
+Assistant: ```<h3>U+1F959</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: falafel
+Assistant: ```<strong>U+1F959</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gyro
+Assistant: ```<h2>U+1F959</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: flatbread
+Assistant: ```<h1>U+1F959</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: kebab
+Assistant: ```<mark>U+1F959</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<h1>U+1F959</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: shallow
+Assistant: ```<code>U+1F958</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: pan
+Assistant: ```<span>U+1F958</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: paella
+Assistant: ```<strong>U+1F958</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<code>U+1F958</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: casserole
+Assistant: ```<span>U+1F958</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: salad
+Assistant: ```<code>U+1F957</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: green
+Assistant: ```<h2>U+1F957</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<code>U+1F957</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: french
+Assistant: ```<strong>U+1F956</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bread
+Assistant: ```<blockquote>U+1F956</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: baguette
+Assistant: ```<pre>U+1F956</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<h2>U+1F956</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: carrot
+Assistant: ```<h1>U+1F955</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: vegetable
+Assistant: ```<pre>U+1F955</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<mark>U+1F955</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: vegetable
+Assistant: ```<p>U+1F954</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: potato
+Assistant: ```<h2>U+1F954</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<h1>U+1F954</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bacon
+Assistant: ```<h3>U+1F953</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: meat
+Assistant: ```<strong>U+1F953</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<mark>U+1F953</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: vegetable
+Assistant: ```<p>U+1F952</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cucumber
+Assistant: ```<code>U+1F952</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: pickle
+Assistant: ```<span>U+1F952</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<em>U+1F952</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: fruit
+Assistant: ```<div>U+1F951</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: avocado
+Assistant: ```<mark>U+1F951</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<div>U+1F951</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<h2>U+1F486 U+1F3FC U+200D U+2640 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<em>U+1F486 U+1F3FC U+200D U+2640 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<blockquote>U+1F486 U+1F3FC U+200D U+2640 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: massage
+Assistant: ```<h3>U+1F486 U+1F3FC U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: french
+Assistant: ```<strong>U+1F950</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bread
+Assistant: ```<blockquote>U+1F950</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: crescent roll
+Assistant: ```<p>U+1F950</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: croissant
+Assistant: ```<pre>U+1F950</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: food
+Assistant: ```<strong>U+1F950</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: uniform
+Assistant: ```<div>U+1F94B</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: martial arts
+Assistant: ```<h3>U+1F94B</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: taekwondo
+Assistant: ```<h1>U+1F94B</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: judo
+Assistant: ```<mark>U+1F94B</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: karate
+Assistant: ```<div>U+1F94B</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: boxing
+Assistant: ```<span>U+1F94A</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: glove
+Assistant: ```<strong>U+1F94A</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<h1>U+1F469 U+1F3FF U+200D U+2708 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: plane
+Assistant: ```<span>U+1F469 U+1F3FF U+200D U+2708 U+FE0F</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<code>U+1F469 U+1F3FF U+200D U+2708 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: pilot
+Assistant: ```<h1>U+1F469 U+1F3FF U+200D U+2708 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: pouting
+Assistant: ```<div>U+1F64E U+1F3FD U+200D U+2642 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gesture
+Assistant: ```<h3>U+1F64E U+1F3FD U+200D U+2642 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<p>U+1F64E U+1F3FD U+200D U+2642 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<h2>U+1F64E U+1F3FD U+200D U+2642 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bronze
+Assistant: ```<strong>U+1F949</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: third
+Assistant: ```<h1>U+1F949</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medal
+Assistant: ```<mark>U+1F949</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: second
+Assistant: ```<code>U+1F948</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medal
+Assistant: ```<p>U+1F948</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: silver
+Assistant: ```<span>U+1F948</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gold
+Assistant: ```<strong>U+1F947</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medal
+Assistant: ```<h3>U+1F947</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: first
+Assistant: ```<pre>U+1F947</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: goal
+Assistant: ```<span>U+1F945</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: net
+Assistant: ```<p>U+1F945</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: tableware
+Assistant: ```<blockquote>U+1F944</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: spoon
+Assistant: ```<h3>U+1F944</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: whisky
+Assistant: ```<span>U+1F943</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: liquor
+Assistant: ```<h3>U+1F943</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: shot
+Assistant: ```<blockquote>U+1F943</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: tumbler
+Assistant: ```<h3>U+1F943</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: glass
+Assistant: ```<mark>U+1F943</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: celebrate
+Assistant: ```<code>U+1F942</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: drink
+Assistant: ```<p>U+1F942</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: clink
+Assistant: ```<pre>U+1F942</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: glass
+Assistant: ```<h1>U+1F942</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: drum
+Assistant: ```<h3>U+1F941</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: drumsticks
+Assistant: ```<blockquote>U+1F941</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: music
+Assistant: ```<div>U+1F941</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: wilted
+Assistant: ```<h1>U+1F940</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: flower
+Assistant: ```<strong>U+1F940</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<h2>U+26F9 U+1F3FF</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ball
+Assistant: ```<strong>U+26F9 U+1F3FF</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<h2>U+26F9 U+1F3FE</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ball
+Assistant: ```<h3>U+26F9 U+1F3FE</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ball
+Assistant: ```<div>U+26F9 U+1F3FD</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<code>U+26F9 U+1F3FD</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ball
+Assistant: ```<code>U+1F93E</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: handball
+Assistant: ```<em>U+1F93E</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<code>U+26F9 U+1F3FC</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ball
+Assistant: ```<h1>U+26F9 U+1F3FC</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: water
+Assistant: ```<h3>U+1F93D</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: polo
+Assistant: ```<h3>U+1F93D</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: light skin tone
+Assistant: ```<span>U+26F9 U+1F3FB</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ball
+Assistant: ```<em>U+26F9 U+1F3FB</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: wrestler
+Assistant: ```<code>U+1F93C</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: wrestle
+Assistant: ```<em>U+1F93C</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: sword
+Assistant: ```<h3>U+1F93A</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: fencing
+Assistant: ```<strong>U+1F93A</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: fencer
+Assistant: ```<code>U+1F93A</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<h3>U+1F575 U+1F3FF U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: sleuth
+Assistant: ```<pre>U+1F575 U+1F3FF U+200D U+2640 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: spy
+Assistant: ```<p>U+1F575 U+1F3FF U+200D U+2640 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<strong>U+1F575 U+1F3FF U+200D U+2640 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: detective
+Assistant: ```<span>U+1F575 U+1F3FF U+200D U+2640 U+FE0F</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: skill
+Assistant: ```<em>U+1F939</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: multitask
+Assistant: ```<h2>U+1F939</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: juggle
+Assistant: ```<div>U+1F939</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: balance
+Assistant: ```<code>U+1F939</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gymnastics
+Assistant: ```<h2>U+1F938</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cartwheel
+Assistant: ```<p>U+1F938</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bunny ear
+Assistant: ```<mark>U+1F46F U+200D U+2642 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: partying
+Assistant: ```<mark>U+1F46F U+200D U+2642 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: men
+Assistant: ```<h1>U+1F46F U+200D U+2642 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dancer
+Assistant: ```<div>U+1F46F U+200D U+2642 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: indifference
+Assistant: ```<p>U+1F937</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: shrug
+Assistant: ```<h3>U+1F937</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ignorance
+Assistant: ```<div>U+1F937</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: doubt
+Assistant: ```<mark>U+1F937</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: claus
+Assistant: ```<mark>U+1F936</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: mother
+Assistant: ```<code>U+1F936</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: mrs.
+Assistant: ```<p>U+1F936</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: celebration
+Assistant: ```<h1>U+1F936</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: christmas
+Assistant: ```<blockquote>U+1F936</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: tuxedo
+Assistant: ```<h2>U+1F935</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<pre>U+1F935</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: groom
+Assistant: ```<pre>U+1F935</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: prince
+Assistant: ```<h3>U+1F934</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: selfie
+Assistant: ```<div>U+1F933</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: phone
+Assistant: ```<blockquote>U+1F933</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: camera
+Assistant: ```<mark>U+1F933</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<strong>U+1F3CC U+1F3FC U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: golf
+Assistant: ```<p>U+1F3CC U+1F3FC U+200D U+2642 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<pre>U+1F3CC U+1F3FC U+200D U+2642 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h3>U+1F930</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: pregnant
+Assistant: ```<h3>U+1F930</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: turban
+Assistant: ```<h2>U+1F473 U+200D U+2640 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h3>U+1F473 U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<h1>U+1F645 U+1F3FF U+200D U+2642 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<strong>U+1F645 U+1F3FF U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: forbidden
+Assistant: ```<div>U+1F645 U+1F3FF U+200D U+2642 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gesture
+Assistant: ```<h2>U+1F645 U+1F3FF U+200D U+2642 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: prohibited
+Assistant: ```<h2>U+1F645 U+1F3FF U+200D U+2642 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: no
+Assistant: ```<h3>U+1F645 U+1F3FF U+200D U+2642 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<strong>U+1F645 U+1F3FF U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<h1>U+1F482 U+1F3FF U+200D U+2642 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: guard
+Assistant: ```<pre>U+1F482 U+1F3FF U+200D U+2642 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<strong>U+1F482 U+1F3FF U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: sneeze
+Assistant: ```<blockquote>U+1F927</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gesundheit
+Assistant: ```<h1>U+1F927</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<h3>U+1F927</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: exasperation
+Assistant: ```<pre>U+1F926</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: disbelief
+Assistant: ```<p>U+1F926</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<code>U+1F926</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: palm
+Assistant: ```<div>U+1F926</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: lie
+Assistant: ```<em>U+1F925</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<em>U+1F925</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: pinocchio
+Assistant: ```<blockquote>U+1F925</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: drooling
+Assistant: ```<h3>U+1F924</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<blockquote>U+1F924</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: laugh
+Assistant: ```<h3>U+1F923</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: rolling
+Assistant: ```<span>U+1F923</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: floor
+Assistant: ```<em>U+1F923</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<h3>U+1F923</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: nauseated
+Assistant: ```<p>U+1F922</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<div>U+1F922</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: vomit
+Assistant: ```<strong>U+1F922</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: racing
+Assistant: ```<strong>U+1F3C3 U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: running
+Assistant: ```<p>U+1F3C3 U+200D U+2642 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: marathon
+Assistant: ```<blockquote>U+1F3C3 U+200D U+2642 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<div>U+1F3C3 U+200D U+2642 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<h1>U+1F921</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: clown
+Assistant: ```<p>U+1F921</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cowgirl
+Assistant: ```<mark>U+1F920</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hat
+Assistant: ```<code>U+1F920</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<em>U+1F920</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cowboy
+Assistant: ```<code>U+1F920</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gymnastics
+Assistant: ```<h3>U+1F938 U+1F3FC U+200D U+2642 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<strong>U+1F938 U+1F3FC U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cartwheel
+Assistant: ```<h3>U+1F938 U+1F3FC U+200D U+2642 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<h2>U+1F938 U+1F3FC U+200D U+2642 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: luck
+Assistant: ```<blockquote>U+1F91E</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<pre>U+1F91E</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: finger
+Assistant: ```<blockquote>U+1F91E</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cross
+Assistant: ```<pre>U+1F91E</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: golf
+Assistant: ```<h3>U+1F3CC U+FE0F U+200D U+2642 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<strong>U+1F3CC U+FE0F U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<mark>U+1F91D</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: shake
+Assistant: ```<strong>U+1F91D</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: agreement
+Assistant: ```<strong>U+1F91D</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: meeting
+Assistant: ```<h3>U+1F91D</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: handshake
+Assistant: ```<code>U+1F91D</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: fist
+Assistant: ```<mark>U+1F91C</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: rightwards
+Assistant: ```<h3>U+1F91C</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: leftwards
+Assistant: ```<mark>U+1F91B</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: fist
+Assistant: ```<span>U+1F91B</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: backhand
+Assistant: ```<strong>U+1F91A</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: raised
+Assistant: ```<em>U+1F91A</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: industrial
+Assistant: ```<blockquote>U+1F468 U+1F3FD U+200D U+1F3ED</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: factory
+Assistant: ```<div>U+1F468 U+1F3FD U+200D U+1F3ED</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: assembly
+Assistant: ```<blockquote>U+1F468 U+1F3FD U+200D U+1F3ED</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: worker
+Assistant: ```<code>U+1F468 U+1F3FD U+200D U+1F3ED</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<strong>U+1F468 U+1F3FD U+200D U+1F3ED</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<blockquote>U+1F468 U+1F3FD U+200D U+1F3ED</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<mark>U+1F486 U+200D U+2642 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: massage
+Assistant: ```<h2>U+1F486 U+200D U+2642 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<div>U+1F486 U+200D U+2642 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: instructor
+Assistant: ```<strong>U+1F468 U+1F3FD U+200D U+1F3EB</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: professor
+Assistant: ```<code>U+1F468 U+1F3FD U+200D U+1F3EB</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: teacher
+Assistant: ```<code>U+1F468 U+1F3FD U+200D U+1F3EB</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<code>U+1F468 U+1F3FD U+200D U+1F3EB</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<pre>U+1F468 U+1F3FD U+200D U+1F3EB</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: racing
+Assistant: ```<strong>U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: running
+Assistant: ```<code>U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<code>U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: marathon
+Assistant: ```<strong>U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<code>U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<blockquote>U+1F919</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: call
+Assistant: ```<h3>U+1F919</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<blockquote>U+1F918</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: horns
+Assistant: ```<span>U+1F918</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: finger
+Assistant: ```<div>U+1F918</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: rock-on
+Assistant: ```<code>U+1F918</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hug
+Assistant: ```<div>U+1F917</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<h1>U+1F917</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hugging
+Assistant: ```<h1>U+1F917</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: monster
+Assistant: ```<strong>U+1F916</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<mark>U+1F916</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: robot
+Assistant: ```<h3>U+1F916</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hurt
+Assistant: ```<em>U+1F915</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bandage
+Assistant: ```<p>U+1F915</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<mark>U+1F915</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: injury
+Assistant: ```<h1>U+1F915</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: thinking
+Assistant: ```<strong>U+1F914</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<strong>U+1F914</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<strong>U+1F913</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: geek
+Assistant: ```<pre>U+1F913</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: nerd
+Assistant: ```<h2>U+1F913</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: thermometer
+Assistant: ```<code>U+1F912</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ill
+Assistant: ```<strong>U+1F912</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: sick
+Assistant: ```<p>U+1F912</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<h1>U+1F912</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: mouth
+Assistant: ```<pre>U+1F911</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: money
+Assistant: ```<h2>U+1F911</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<code>U+1F911</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: zipper
+Assistant: ```<h3>U+1F910</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: mouth
+Assistant: ```<h1>U+1F910</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<mark>U+1F910</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<blockquote>U+1F471 U+1F3FC U+200D U+2640 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<em>U+1F471 U+1F3FC U+200D U+2640 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: blonde
+Assistant: ```<div>U+1F471 U+1F3FC U+200D U+2640 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: doctor
+Assistant: ```<div>U+1F469 U+1F3FD U+200D U+2695 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: nurse
+Assistant: ```<em>U+1F469 U+1F3FD U+200D U+2695 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: healthcare
+Assistant: ```<h2>U+1F469 U+1F3FD U+200D U+2695 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<blockquote>U+1F469 U+1F3FD U+200D U+2695 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: therapist
+Assistant: ```<p>U+1F469 U+1F3FD U+200D U+2695 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<h3>U+1F469 U+1F3FD U+200D U+2695 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<pre>U+1F93D U+1F3FE U+200D U+2640 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<em>U+1F93D U+1F3FE U+200D U+2640 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: water polo
+Assistant: ```<span>U+1F93D U+1F3FE U+200D U+2640 U+FE0F</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: walk
+Assistant: ```<h1>U+1F6B6 U+1F3FB U+200D U+2642 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: light skin tone
+Assistant: ```<code>U+1F6B6 U+1F3FB U+200D U+2642 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hike
+Assistant: ```<span>U+1F6B6 U+1F3FB U+200D U+2642 U+FE0F</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<strong>U+1F6B6 U+1F3FB U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<strong>U+1F646 U+1F3FF U+200D U+2640 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<h1>U+1F646 U+1F3FF U+200D U+2640 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ok
+Assistant: ```<h2>U+1F646 U+1F3FF U+200D U+2640 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gesture
+Assistant: ```<blockquote>U+1F646 U+1F3FF U+200D U+2640 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<span>U+1F646 U+1F3FF U+200D U+2640 U+FE0F</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: multitask
+Assistant: ```<strong>U+1F939 U+1F3FC U+200D U+2640 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: juggling
+Assistant: ```<mark>U+1F939 U+1F3FC U+200D U+2640 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<h3>U+1F939 U+1F3FC U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h3>U+1F939 U+1F3FC U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<h1>U+1F3C4 U+1F3FE U+200D U+2640 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<pre>U+1F3C4 U+1F3FE U+200D U+2640 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: surfing
+Assistant: ```<h2>U+1F3C4 U+1F3FE U+200D U+2640 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ski
+Assistant: ```<div>U+1F3C2 U+1F3FF</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<h3>U+1F3C2 U+1F3FF</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: snowboard
+Assistant: ```<span>U+1F3C2 U+1F3FF</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: snow
+Assistant: ```<p>U+1F3C2 U+1F3FF</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ski
+Assistant: ```<pre>U+1F3C2 U+1F3FE</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: snowboard
+Assistant: ```<h1>U+1F3C2 U+1F3FE</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<span>U+1F3C2 U+1F3FE</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: snow
+Assistant: ```<div>U+1F3C2 U+1F3FE</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ski
+Assistant: ```<em>U+1F3C2 U+1F3FD</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: snowboard
+Assistant: ```<h3>U+1F3C2 U+1F3FD</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: snow
+Assistant: ```<h3>U+1F3C2 U+1F3FD</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<code>U+1F3C2 U+1F3FD</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ski
+Assistant: ```<h3>U+1F3C2 U+1F3FC</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: snowboard
+Assistant: ```<h2>U+1F3C2 U+1F3FC</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<strong>U+1F3C2 U+1F3FC</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: snow
+Assistant: ```<em>U+1F3C2 U+1F3FC</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ski
+Assistant: ```<span>U+1F3C2 U+1F3FB</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: light skin tone
+Assistant: ```<h3>U+1F3C2 U+1F3FB</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: snowboard
+Assistant: ```<em>U+1F3C2 U+1F3FB</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: snow
+Assistant: ```<div>U+1F3C2 U+1F3FB</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: artist
+Assistant: ```<mark>U+1F468 U+1F3FD U+200D U+1F3A8</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: palette
+Assistant: ```<div>U+1F468 U+1F3FD U+200D U+1F3A8</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<span>U+1F468 U+1F3FD U+200D U+1F3A8</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<em>U+1F468 U+1F3FD U+200D U+1F3A8</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: m
+Assistant: ```<blockquote>U+24C2</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: circle
+Assistant: ```<h1>U+24C2</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: entertainer
+Assistant: ```<mark>U+1F468 U+1F3FD U+200D U+1F3A4</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: singer
+Assistant: ```<h2>U+1F468 U+1F3FD U+200D U+1F3A4</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: actor
+Assistant: ```<em>U+1F468 U+1F3FD U+200D U+1F3A4</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: star
+Assistant: ```<pre>U+1F468 U+1F3FD U+200D U+1F3A4</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: rock
+Assistant: ```<p>U+1F468 U+1F3FD U+200D U+1F3A4</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<h1>U+1F468 U+1F3FD U+200D U+1F3A4</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<code>U+1F468 U+1F3FD U+200D U+1F3A4</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<h1>U+1F477 U+1F3FF U+200D U+2640 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<code>U+1F477 U+1F3FF U+200D U+2640 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: worker
+Assistant: ```<mark>U+1F477 U+1F3FF U+200D U+2640 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: construction
+Assistant: ```<mark>U+1F477 U+1F3FF U+200D U+2640 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: judge
+Assistant: ```<h1>U+1F469 U+1F3FD U+200D U+2696 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h3>U+1F469 U+1F3FD U+200D U+2696 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: scales
+Assistant: ```<div>U+1F469 U+1F3FD U+200D U+2696 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<em>U+1F469 U+1F3FD U+200D U+2696 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<h1>U+1F486 U+1F3FC U+200D U+2642 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: face
+Assistant: ```<div>U+1F486 U+1F3FC U+200D U+2642 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: massage
+Assistant: ```<strong>U+1F486 U+1F3FC U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<code>U+1F486 U+1F3FC U+200D U+2642 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<strong>U+1F3CA U+1F3FF U+200D U+2640 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: swim
+Assistant: ```<p>U+1F3CA U+1F3FF U+200D U+2640 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h1>U+1F3CA U+1F3FF U+200D U+2640 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h3>U+1F937 U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: indifference
+Assistant: ```<h2>U+1F937 U+200D U+2640 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: shrug
+Assistant: ```<mark>U+1F937 U+200D U+2640 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ignorance
+Assistant: ```<p>U+1F937 U+200D U+2640 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: doubt
+Assistant: ```<strong>U+1F937 U+200D U+2640 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<em>U+1F575 U+1F3FF U+200D U+2642 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: sleuth
+Assistant: ```<strong>U+1F575 U+1F3FF U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: spy
+Assistant: ```<code>U+1F575 U+1F3FF U+200D U+2642 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: detective
+Assistant: ```<pre>U+1F575 U+1F3FF U+200D U+2642 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<div>U+1F575 U+1F3FF U+200D U+2642 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: turban
+Assistant: ```<strong>U+1F473 U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<blockquote>U+1F473 U+200D U+2642 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: family
+Assistant: ```<h1>U+1F468 U+200D U+1F469 U+200D U+1F467</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<pre>U+1F468 U+200D U+1F469 U+200D U+1F467</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: girl
+Assistant: ```<pre>U+1F468 U+200D U+1F469 U+200D U+1F467</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<p>U+1F468 U+200D U+1F469 U+200D U+1F467</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: family
+Assistant: ```<p>U+1F468 U+200D U+1F469 U+200D U+1F466</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: boy
+Assistant: ```<h1>U+1F468 U+200D U+1F469 U+200D U+1F466</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<code>U+1F468 U+200D U+1F469 U+200D U+1F466</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<mark>U+1F468 U+200D U+1F469 U+200D U+1F466</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<mark>U+1F487 U+1F3FC U+200D U+2640 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<strong>U+1F487 U+1F3FC U+200D U+2640 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: haircut
+Assistant: ```<h3>U+1F487 U+1F3FC U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<span>U+1F46E U+1F3FF</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: officer
+Assistant: ```<h2>U+1F46E U+1F3FF</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: police
+Assistant: ```<h1>U+1F46E U+1F3FF</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cop
+Assistant: ```<code>U+1F46E U+1F3FF</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: officer
+Assistant: ```<em>U+1F46E U+1F3FE</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<h2>U+1F46E U+1F3FE</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: police
+Assistant: ```<em>U+1F46E U+1F3FE</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cop
+Assistant: ```<pre>U+1F46E U+1F3FE</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: officer
+Assistant: ```<div>U+1F46E U+1F3FD</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: police
+Assistant: ```<h2>U+1F46E U+1F3FD</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<mark>U+1F46E U+1F3FD</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cop
+Assistant: ```<span>U+1F46E U+1F3FD</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: officer
+Assistant: ```<h3>U+1F46E U+1F3FC</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<blockquote>U+1F46E U+1F3FC</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: police
+Assistant: ```<blockquote>U+1F46E U+1F3FC</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cop
+Assistant: ```<code>U+1F46E U+1F3FC</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: light skin tone
+Assistant: ```<h3>U+1F46E U+1F3FB</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: officer
+Assistant: ```<h3>U+1F46E U+1F3FB</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: police
+Assistant: ```<blockquote>U+1F46E U+1F3FB</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cop
+Assistant: ```<blockquote>U+1F46E U+1F3FB</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: manager
+Assistant: ```<p>U+1F468 U+200D U+1F4BC</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: business
+Assistant: ```<h1>U+1F468 U+200D U+1F4BC</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: office
+Assistant: ```<h2>U+1F468 U+200D U+1F4BC</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: architect
+Assistant: ```<strong>U+1F468 U+200D U+1F4BC</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: white-collar
+Assistant: ```<h2>U+1F468 U+200D U+1F4BC</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<code>U+1F468 U+200D U+1F4BC</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: coder
+Assistant: ```<code>U+1F468 U+200D U+1F4BB</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: developer
+Assistant: ```<h1>U+1F468 U+200D U+1F4BB</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: software
+Assistant: ```<code>U+1F468 U+200D U+1F4BB</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: technologist
+Assistant: ```<span>U+1F468 U+200D U+1F4BB</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: inventor
+Assistant: ```<h2>U+1F468 U+200D U+1F4BB</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<blockquote>U+1F468 U+200D U+1F4BB</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<blockquote>U+1F3C3 U+1F3FF</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: running
+Assistant: ```<em>U+1F3C3 U+1F3FF</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: marathon
+Assistant: ```<code>U+1F3C3 U+1F3FF</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: running
+Assistant: ```<code>U+1F3C3 U+1F3FE</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<em>U+1F3C3 U+1F3FE</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: marathon
+Assistant: ```<h1>U+1F3C3 U+1F3FE</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: running
+Assistant: ```<div>U+1F3C3 U+1F3FD</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: marathon
+Assistant: ```<p>U+1F3C3 U+1F3FD</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<h2>U+1F3C3 U+1F3FD</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bicycle
+Assistant: ```<h2>U+1F6B4 U+1F3FE U+200D U+2640 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cyclist
+Assistant: ```<em>U+1F6B4 U+1F3FE U+200D U+2640 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<div>U+1F6B4 U+1F3FE U+200D U+2640 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<pre>U+1F6B4 U+1F3FE U+200D U+2640 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: biking
+Assistant: ```<code>U+1F6B4 U+1F3FE U+200D U+2640 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: running
+Assistant: ```<pre>U+1F3C3 U+1F3FC</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<code>U+1F3C3 U+1F3FC</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: marathon
+Assistant: ```<blockquote>U+1F3C3 U+1F3FC</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: running
+Assistant: ```<p>U+1F3C3 U+1F3FB</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: light skin tone
+Assistant: ```<mark>U+1F3C3 U+1F3FB</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: marathon
+Assistant: ```<h1>U+1F3C3 U+1F3FB</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: plane
+Assistant: ```<pre>U+1F468 U+1F3FD U+200D U+2708 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: pilot
+Assistant: ```<h2>U+1F468 U+1F3FD U+200D U+2708 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<div>U+1F468 U+1F3FD U+200D U+2708 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<pre>U+1F468 U+1F3FD U+200D U+2708 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: light skin tone
+Assistant: ```<mark>U+1F64D U+1F3FB U+200D U+2642 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: frowning
+Assistant: ```<strong>U+1F64D U+1F3FB U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gesture
+Assistant: ```<strong>U+1F64D U+1F3FB U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<h3>U+1F64D U+1F3FB U+200D U+2642 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<h3>U+26F9 U+1F3FF U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<blockquote>U+26F9 U+1F3FF U+200D U+2640 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ball
+Assistant: ```<mark>U+26F9 U+1F3FF U+200D U+2640 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: manager
+Assistant: ```<code>U+1F469 U+1F3FE U+200D U+1F4BC</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: business
+Assistant: ```<blockquote>U+1F469 U+1F3FE U+200D U+1F4BC</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: office
+Assistant: ```<mark>U+1F469 U+1F3FE U+200D U+1F4BC</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<em>U+1F469 U+1F3FE U+200D U+1F4BC</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<strong>U+1F469 U+1F3FE U+200D U+1F4BC</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: architect
+Assistant: ```<mark>U+1F469 U+1F3FE U+200D U+1F4BC</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: white-collar
+Assistant: ```<strong>U+1F469 U+1F3FE U+200D U+1F4BC</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: coder
+Assistant: ```<p>U+1F469 U+1F3FE U+200D U+1F4BB</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: developer
+Assistant: ```<h3>U+1F469 U+1F3FE U+200D U+1F4BB</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: software
+Assistant: ```<h3>U+1F469 U+1F3FE U+200D U+1F4BB</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<mark>U+1F469 U+1F3FE U+200D U+1F4BB</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<span>U+1F469 U+1F3FE U+200D U+1F4BB</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: technologist
+Assistant: ```<em>U+1F469 U+1F3FE U+200D U+1F4BB</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: inventor
+Assistant: ```<h1>U+1F469 U+1F3FE U+200D U+1F4BB</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: industrial
+Assistant: ```<blockquote>U+1F469 U+200D U+1F3ED</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: factory
+Assistant: ```<h2>U+1F469 U+200D U+1F3ED</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: assembly
+Assistant: ```<pre>U+1F469 U+200D U+1F3ED</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h2>U+1F469 U+200D U+1F3ED</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: worker
+Assistant: ```<p>U+1F469 U+200D U+1F3ED</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<code>U+1F93D U+1F3FE U+200D U+2642 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: water polo
+Assistant: ```<h1>U+1F93D U+1F3FE U+200D U+2642 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<code>U+1F93D U+1F3FE U+200D U+2642 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: instructor
+Assistant: ```<p>U+1F469 U+200D U+1F3EB</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: professor
+Assistant: ```<p>U+1F469 U+200D U+1F3EB</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<strong>U+1F469 U+200D U+1F3EB</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: teacher
+Assistant: ```<h2>U+1F469 U+200D U+1F3EB</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<pre>U+1F646 U+1F3FF U+200D U+2642 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<em>U+1F646 U+1F3FF U+200D U+2642 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ok
+Assistant: ```<h3>U+1F646 U+1F3FF U+200D U+2642 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gesture
+Assistant: ```<mark>U+1F646 U+1F3FF U+200D U+2642 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<strong>U+1F646 U+1F3FF U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: industrial
+Assistant: ```<div>U+1F469 U+1F3FF U+200D U+1F3ED</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<h2>U+1F469 U+1F3FF U+200D U+1F3ED</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: factory
+Assistant: ```<span>U+1F469 U+1F3FF U+200D U+1F3ED</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: assembly
+Assistant: ```<h1>U+1F469 U+1F3FF U+200D U+1F3ED</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<code>U+1F469 U+1F3FF U+200D U+1F3ED</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: worker
+Assistant: ```<mark>U+1F469 U+1F3FF U+200D U+1F3ED</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: instructor
+Assistant: ```<span>U+1F469 U+1F3FF U+200D U+1F3EB</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<blockquote>U+1F469 U+1F3FF U+200D U+1F3EB</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: professor
+Assistant: ```<h1>U+1F469 U+1F3FF U+200D U+1F3EB</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<blockquote>U+1F469 U+1F3FF U+200D U+1F3EB</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: teacher
+Assistant: ```<div>U+1F469 U+1F3FF U+200D U+1F3EB</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: multitask
+Assistant: ```<code>U+1F939 U+1F3FC U+200D U+2642 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: juggling
+Assistant: ```<div>U+1F939 U+1F3FC U+200D U+2642 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<p>U+1F939 U+1F3FC U+200D U+2642 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<mark>U+1F939 U+1F3FC U+200D U+2642 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: light skin tone
+Assistant: ```<p>U+1F64E U+1F3FB U+200D U+2640 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: pouting
+Assistant: ```<pre>U+1F64E U+1F3FB U+200D U+2640 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gesture
+Assistant: ```<h2>U+1F64E U+1F3FB U+200D U+2640 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<code>U+1F64E U+1F3FB U+200D U+2640 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<pre>U+1F93E U+1F3FE U+200D U+2640 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<span>U+1F93E U+1F3FE U+200D U+2640 U+FE0F</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: handball
+Assistant: ```<h3>U+1F93E U+1F3FE U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: graduate
+Assistant: ```<em>U+1F468 U+1F3FD U+200D U+1F393</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: student
+Assistant: ```<div>U+1F468 U+1F3FD U+200D U+1F393</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<em>U+1F468 U+1F3FD U+200D U+1F393</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<mark>U+1F468 U+1F3FD U+200D U+1F393</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: light skin tone
+Assistant: ```<code>U+1F468 U+1F3FB U+200D U+2695 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: doctor
+Assistant: ```<span>U+1F468 U+1F3FB U+200D U+2695 U+FE0F</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: nurse
+Assistant: ```<h3>U+1F468 U+1F3FB U+200D U+2695 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: healthcare
+Assistant: ```<strong>U+1F468 U+1F3FB U+200D U+2695 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: therapist
+Assistant: ```<div>U+1F468 U+1F3FB U+200D U+2695 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<mark>U+1F468 U+1F3FB U+200D U+2695 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<h3>U+1F3C4 U+1F3FF</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: surfing
+Assistant: ```<pre>U+1F3C4 U+1F3FF</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<pre>U+1F3C4 U+1F3FE</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: surfing
+Assistant: ```<blockquote>U+1F3C4 U+1F3FE</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: surfing
+Assistant: ```<p>U+1F3C4 U+1F3FD</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<p>U+1F3C4 U+1F3FD</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<pre>U+1F3C4 U+1F3FC</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: surfing
+Assistant: ```<blockquote>U+1F3C4 U+1F3FC</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: light skin tone
+Assistant: ```<span>U+1F3C4 U+1F3FB</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: surfing
+Assistant: ```<div>U+1F3C4 U+1F3FB</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: hand
+Assistant: ```<span>U+1F645 U+1F3FD U+200D U+2640 U+FE0F</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: forbidden
+Assistant: ```<div>U+1F645 U+1F3FD U+200D U+2640 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gesture
+Assistant: ```<strong>U+1F645 U+1F3FD U+200D U+2640 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<blockquote>U+1F645 U+1F3FD U+200D U+2640 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: prohibited
+Assistant: ```<code>U+1F645 U+1F3FD U+200D U+2640 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: no
+Assistant: ```<mark>U+1F645 U+1F3FD U+200D U+2640 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<em>U+1F645 U+1F3FD U+200D U+2640 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: couple
+Assistant: ```<h2>U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<strong>U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h3>U+1F482 U+1F3FD U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: guard
+Assistant: ```<pre>U+1F482 U+1F3FD U+200D U+2640 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<blockquote>U+1F482 U+1F3FD U+200D U+2640 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<div>U+1F477 U+1F3FF U+200D U+2642 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: worker
+Assistant: ```<p>U+1F477 U+1F3FF U+200D U+2642 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<span>U+1F477 U+1F3FF U+200D U+2642 U+FE0F</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: construction
+Assistant: ```<mark>U+1F477 U+1F3FF U+200D U+2642 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: doctor
+Assistant: ```<blockquote>U+1F469 U+200D U+2695 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: nurse
+Assistant: ```<mark>U+1F469 U+200D U+2695 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: healthcare
+Assistant: ```<blockquote>U+1F469 U+200D U+2695 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<em>U+1F469 U+200D U+2695 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: therapist
+Assistant: ```<p>U+1F469 U+200D U+2695 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: artist
+Assistant: ```<h2>U+1F469 U+200D U+1F3A8</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: palette
+Assistant: ```<strong>U+1F469 U+200D U+1F3A8</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<h3>U+1F469 U+200D U+1F3A8</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: eye
+Assistant: ```<mark>U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: witness
+Assistant: ```<h1>U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: speech bubble
+Assistant: ```<p>U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: entertainer
+Assistant: ```<code>U+1F469 U+200D U+1F3A4</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: singer
+Assistant: ```<blockquote>U+1F469 U+200D U+1F3A4</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: actor
+Assistant: ```<mark>U+1F469 U+200D U+1F3A4</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<pre>U+1F469 U+200D U+1F3A4</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: star
+Assistant: ```<pre>U+1F469 U+200D U+1F3A4</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: rock
+Assistant: ```<strong>U+1F469 U+200D U+1F3A4</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cook
+Assistant: ```<pre>U+1F468 U+1F3FD U+200D U+1F373</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: chef
+Assistant: ```<div>U+1F468 U+1F3FD U+200D U+1F373</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<em>U+1F468 U+1F3FD U+200D U+1F373</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<code>U+1F468 U+1F3FD U+200D U+1F373</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: racing
+Assistant: ```<strong>U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: running
+Assistant: ```<blockquote>U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<div>U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<strong>U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: marathon
+Assistant: ```<span>U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: japanese
+Assistant: ```<pre>U+1F251</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ?
+Assistant: ```<strong>U+1F251</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: “acceptable”
+Assistant: ```<pre>U+1F251</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ideograph
+Assistant: ```<div>U+1F251</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: japanese
+Assistant: ```<h3>U+1F250</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ?
+Assistant: ```<code>U+1F250</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: “bargain”
+Assistant: ```<strong>U+1F250</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ideograph
+Assistant: ```<pre>U+1F250</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<strong>U+1F469 U+1F3FF U+200D U+1F3A8</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: artist
+Assistant: ```<span>U+1F469 U+1F3FF U+200D U+1F3A8</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: palette
+Assistant: ```<mark>U+1F469 U+1F3FF U+200D U+1F3A8</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<div>U+1F469 U+1F3FF U+200D U+1F3A8</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<mark>U+1F469 U+1F3FF U+200D U+1F3A4</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: entertainer
+Assistant: ```<h3>U+1F469 U+1F3FF U+200D U+1F3A4</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: singer
+Assistant: ```<blockquote>U+1F469 U+1F3FF U+200D U+1F3A4</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: actor
+Assistant: ```<h2>U+1F469 U+1F3FF U+200D U+1F3A4</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<blockquote>U+1F469 U+1F3FF U+200D U+1F3A4</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: star
+Assistant: ```<h1>U+1F469 U+1F3FF U+200D U+1F3A4</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: rock
+Assistant: ```<h2>U+1F469 U+1F3FF U+200D U+1F3A4</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<pre>U+1F3CA U+1F3FF U+200D U+2642 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: swim
+Assistant: ```<strong>U+1F3CA U+1F3FF U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<h3>U+1F3CA U+1F3FF U+200D U+2642 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: japanese
+Assistant: ```<strong>U+1F23A</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ?
+Assistant: ```<em>U+1F23A</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: “open for business”
+Assistant: ```<h2>U+1F23A</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ideograph
+Assistant: ```<blockquote>U+1F23A</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: japanese
+Assistant: ```<em>U+1F239</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ?
+Assistant: ```<strong>U+1F239</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: “discount”
+Assistant: ```<span>U+1F239</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ideograph
+Assistant: ```<h2>U+1F239</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: japanese
+Assistant: ```<span>U+1F238</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ?
+Assistant: ```<em>U+1F238</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: “application”
+Assistant: ```<blockquote>U+1F238</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ideograph
+Assistant: ```<strong>U+1F238</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: “monthly amount”
+Assistant: ```<p>U+1F237</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: japanese
+Assistant: ```<h1>U+1F237</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ?
+Assistant: ```<strong>U+1F237</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ideograph
+Assistant: ```<strong>U+1F237</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: “not free of charge”
+Assistant: ```<h1>U+1F236</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: japanese
+Assistant: ```<blockquote>U+1F236</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ?
+Assistant: ```<span>U+1F236</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ideograph
+Assistant: ```<h3>U+1F236</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: “no vacancy”
+Assistant: ```<strong>U+1F235</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: japanese
+Assistant: ```<code>U+1F235</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ?
+Assistant: ```<span>U+1F235</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ideograph
+Assistant: ```<pre>U+1F235</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-light skin tone
+Assistant: ```<strong>U+1F487 U+1F3FC U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<em>U+1F487 U+1F3FC U+200D U+2642 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: haircut
+Assistant: ```<strong>U+1F487 U+1F3FC U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: japanese
+Assistant: ```<h2>U+1F234</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ?
+Assistant: ```<p>U+1F234</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ideograph
+Assistant: ```<div>U+1F234</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: “passing grade”
+Assistant: ```<mark>U+1F234</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: japanese
+Assistant: ```<blockquote>U+1F233</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ?
+Assistant: ```<blockquote>U+1F233</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: “vacancy”
+Assistant: ```<p>U+1F233</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ideograph
+Assistant: ```<p>U+1F233</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: light skin tone
+Assistant: ```<div>U+1F468 U+1F3FB U+200D U+2696 U+FE0F</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: justice
+Assistant: ```<h1>U+1F468 U+1F3FB U+200D U+2696 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: scales
+Assistant: ```<code>U+1F468 U+1F3FB U+200D U+2696 U+FE0F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<em>U+1F468 U+1F3FB U+200D U+2696 U+FE0F</em>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: japanese
+Assistant: ```<div>U+1F232</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ?
+Assistant: ```<blockquote>U+1F232</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: “prohibited”
+Assistant: ```<pre>U+1F232</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ideograph
+Assistant: ```<code>U+1F232</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: japanese
+Assistant: ```<blockquote>U+1F22F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ?
+Assistant: ```<h3>U+1F22F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: “reserved”
+Assistant: ```<code>U+1F22F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: ideograph
+Assistant: ```<code>U+1F22F</code>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: dark skin tone
+Assistant: ```<h1>U+1F6A3 U+1F3FF U+200D U+2640 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: rowboat
+Assistant: ```<h3>U+1F6A3 U+1F3FF U+200D U+2640 U+FE0F</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<blockquote>U+1F6A3 U+1F3FF U+200D U+2640 U+FE0F</blockquote>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: boat
+Assistant: ```<h1>U+1F6A3 U+1F3FF U+200D U+2640 U+FE0F</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: bicycle
+Assistant: ```<strong>U+1F6B4 U+1F3FE U+200D U+2642 U+FE0F</strong>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: cyclist
+Assistant: ```<p>U+1F6B4 U+1F3FE U+200D U+2642 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium-dark skin tone
+Assistant: ```<h2>U+1F6B4 U+1F3FE U+200D U+2642 U+FE0F</h2>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: biking
+Assistant: ```<p>U+1F6B4 U+1F3FE U+200D U+2642 U+FE0F</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<pre>U+1F6B4 U+1F3FE U+200D U+2642 U+FE0F</pre>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: farmer
+Assistant: ```<span>U+1F468 U+1F3FD U+200D U+1F33E</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gardener
+Assistant: ```<div>U+1F468 U+1F3FD U+200D U+1F33E</div>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: rancher
+Assistant: ```<h1>U+1F468 U+1F3FD U+200D U+1F33E</h1>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: medium skin tone
+Assistant: ```<h3>U+1F468 U+1F3FD U+200D U+1F33E</h3>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: man
+Assistant: ```<p>U+1F468 U+1F3FD U+200D U+1F33E</p>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: pouting
+Assistant: ```<mark>U+1F64E U+200D U+2640 U+FE0F</mark>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: gesture
+Assistant: ```<span>U+1F64E U+200D U+2640 U+FE0F</span>```
+
+System: System: HTML Chat Assistant that only speaks in html tags
+User: woman
+Assistant: ```<code>U+1F64E U+200D U+2640 U+FE0F</code>```
